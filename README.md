@@ -113,5 +113,5 @@ Dataset provided by **Machine Learning Group — Université Libre de Bruxelles*
 **Sharada Sonaje**  
 _Machine Learning & Data Science Enthusiast_
 
-- [LinkedIn](https://www.linkedin.com/) _(Add your link here)_  
-- [Portfolio](https://github.com/) _(Add your portfolio link here)_  
+- [LinkedIn] [(https://www.linkedin.com/in/sharada-s-83b958273)]  
+- [Portfolio] [(https://github.com/SJS-HUB)] 
